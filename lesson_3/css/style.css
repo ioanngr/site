@@ -1,0 +1,73 @@
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+ol li,
+ul li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+
+
+//////////////////////////////////////////////
+
+.item_title {
+}
+.item_text {
+}
+.item_par {color: mediumaquamarine;
+}
+.item_sa { color: indigo;
+}
+.item_p {color: mediumaquamarine;
+}
+.item_par.item_p {color: mintcream;}
+
+
+.item_d {
+}
+
+.item_title2 {
+}
+.item_main {
+}
+.title_3 {
+}
+.item_sp , div.item_text span {color: rgb(0, 255, 0);
+}
+span {color: hotpink;}
+
+#item_b {color: rgb(231, 64, 253);}
+
+h1.item_title {color: rgb(204, 213, 221);}
+
+div.item_text>p {color: rgb(255, 0, 0);}
+
+
+
+
+
+
+
+
